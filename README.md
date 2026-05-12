@@ -26,7 +26,7 @@ Seiring berjalannya waktu, *subscriber* terus memproses pesan tersebut satu per 
 
 
 ### Reflection and Running at least three subscribers
-![Bukti](images/Screenshot 2026-05-12 194309.png)
+![Bukti](images/bukti.png)
 ![Three Subscribers and RabbitMQ Chart](images/event_driven.png)
 
 **Refleksi & Penjelasan:**
